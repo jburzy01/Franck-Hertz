@@ -1,2 +1,2 @@
-# Frank-Hertz
-Report and analysis for Frank-Hertz experiment
+# Franck-Hertz
+Report and analysis for Franck-Hertz experiment
